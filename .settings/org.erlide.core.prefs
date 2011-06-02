@@ -1,0 +1,8 @@
+#Sun Apr 10 12:46:47 EEST 2011
+backend_version=R13B
+eclipse.preferences.version=1
+external_includes=
+external_modules=
+include_dirs=lib/erlang-amf/include;include;
+output_dir=ebin
+source_dirs=lib/erlang-amf/src;src;
